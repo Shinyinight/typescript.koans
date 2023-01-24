@@ -50,10 +50,4 @@ We have good experience using these editors:
 * [Sublime Text](http://www.sublimetext.com/3) with [Typescript-Sublime-Plugin](https://github.com/Microsoft/Typescript-Sublime-plugin#installation)
 
 
-## Contributing
 
-Feel free to send us PRs
-
-Happy coding!
-
-[Hackages Team](http://hackages.io)
